@@ -53,13 +53,3 @@ public class MovingImage extends Rectangle2D.Double {
 	
 	
 }
-
-
-
-
-
-
-
-
-
-
